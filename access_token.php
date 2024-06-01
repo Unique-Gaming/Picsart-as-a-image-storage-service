@@ -1,7 +1,7 @@
 <?php
 
-$email = "anupjotjawanda12@gmail.com"; // Picsart Account Email
-$password = "Anupjot242007@"; // Picsart Account Password
+$email = ""; // Picsart Account Email
+$password = ""; // Picsart Account Password
 
 $access = 'https://api.picsart.com/gw-v2/users/auth/signin';
 
