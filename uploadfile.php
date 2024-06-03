@@ -141,7 +141,6 @@ if (isset($_FILES['file'])) {
             $headers = [
                 'Content-Type: multipart/form-data; boundary=boundary+4ee623c738e76682',
                 'x-app-authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ijk3MjFiZTM2LWIyNzAtNDlkNS05NzU2LTlkNTk3Yzg2YjA1MSJ9.eyJzdWIiOiJhdXRoLXNlcnZpY2UtYXBwbGUiLCJhdWQiOiJhdXRoLXNlcnZpY2UtYXBwbGUiLCJuYmYiOjE2ODc0Mjk4MjgsInNjb3BlIjpbXSwiaWF0IjoxNjg3NDQwNjI4LCJpc3MiOiJodHRwczovL3BhLWF1dGhvcml6YXRpb24tc2VydmVyLnN0YWdlLnBpY3NhcnQudG9vbHMvYXBpL29hdXRoMiIsImp0aSI6ImI0ZGM1NTMwLWMxMzgtNDMwZi1hYjY1LWEzMjQ2ZWJjMDVlNyJ9.Z2v343W1lCEkGAD3XzqxLf1c7xmtz24k_eD7lFAHGLT3zLr21shMQWiKu3LtjM2-XzKCkpHnt0FzQZKqt1PCSLYC0DB2hkXkNr3VcFKGxyL0Jmq5RstCvlib85nJz2pgAfKP8kea6mH_py-zTIP9q3P47INTh8mT5wd41gntAX0sXADiCaLncZiVt3obaeYG6EHvYGiQk0vDYdyAo25sF5BSj3ayzP-YWWOwRHZ_pSNoQ8J1BNN0ZGsLaiGlZszoXDhYTaNlVUVMd6y6oExhvVBDlTs_aQ9hwpBQ084qOBKJ5v8P6S91e_PGDfY7x_ISVemnBr8ydyAJWmA9_x5pxw',
-                'deviceid:rand_7fbf6925-e938-4058-871f-3e20017c3881',
                 'Authorization: Bearer ' . $access_token,
                 'segments: ' . $segments
             ];
