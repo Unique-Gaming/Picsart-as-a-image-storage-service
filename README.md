@@ -34,7 +34,7 @@ You can use any Php hosting Like :-
 ## 🖥️ One Click Install on Replit
 
 <a href="https://replit.com/@anupreal/Picsart-as-Image-Storage-Service">
-<img src="https://cdn-tmp-mob-images.picsart.com/tmp-mob-images/6344f328-bf33-4b68-a9f5-b572045ddda3.png" style="width: 120px; height: 60px; border-radius: 10px;">
+<img src="https://cdn-tmp-mob-images.picsart.com/tmp-mob-images/07ec276f-bae0-434a-90b7-f97f48e9ef70.png" style="width: 120px; height: 60px;">
 </a>
 
 ## 🚸 Warnings:
