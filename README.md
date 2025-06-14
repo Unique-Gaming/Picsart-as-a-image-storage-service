@@ -51,6 +51,6 @@ Join my Telegram channel to show your support and stay updated. See you there!
 
 ---
 
-<h4 align='center'>© 2024 UNIQUE GAMING</h4>
+<h4 align='center'>© 2025 UNIQUE GAMING</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
